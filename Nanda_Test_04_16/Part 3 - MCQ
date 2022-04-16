@@ -1,0 +1,11 @@
+1) result = [3*i for i in data if i>3 else 0]
+2) not is
+   is not
+3) try:
+       foo()
+       except BaseException as variable:
+           print(variable)
+           
+4) print("%.2f" %3.142)
+7) return (x,y)
+   return x,y
